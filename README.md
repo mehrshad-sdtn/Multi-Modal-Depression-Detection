@@ -31,9 +31,5 @@ The repository includes:
 4. **Interpretability**:
    - Visualization of attention weights for insights into model focus during predictions.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mehrshad-sdtn/Multi-Modal-Depression-Detection.git
 
 
