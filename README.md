@@ -16,6 +16,7 @@ A detailed report of the project, including the methodology, experiments, and re
 The model uses the DAIC-WOZ dataset, which includes:
 - Audio embeddings for each sentence (256-dimensional vectors).
 - Transcriptions of participant responses.
+Due to privacy reasons we are not allowed to post the dataset, but it could be accessed [here](https://dcapswoz.ict.usc.edu/)
 
 ## Implementation
 The repository includes:
