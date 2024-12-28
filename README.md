@@ -30,6 +30,13 @@ The repository includes:
    - Metrics: Accuracy and loss tracking during training and evaluation.
 4. **Interpretability**:
    - Visualization of attention weights for insights into model focus during predictions.
+  
+## Model Architecture
+Below is an overview of the model architecture used in this project:
+
+![Model Architecture](arch.png)
+The model integrates textual and audio modalities using separate Transformer-based encoders, followed by a shared classification layer. Attention mechanisms are leveraged for interpretability.
+
 
 
 
